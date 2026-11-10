@@ -11,6 +11,9 @@ Many students with hearing or vision impairments depend on online tools . Assist
 - **Auto Notes with Subject Tagging:** notes saved and organized by subject
 - **Emergency SOS:** send an alert SMS in one tap
 - **Noise Filter:** reduces background noise
+  
+## Screenshots
+![Home](home.png.jpeg) ![notes](notes.png.jpeg) ![sos](sos.png.jpeg) ![settings](settings.png.jpeg)
 
 ## Tech Stack
 Kotlin | MVVM | ML Kit | CameraX | Room Database | SpeechRecognizer API | SmsManager
