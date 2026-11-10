@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+build/
+.idea/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+logcat.txt
+exportToHTML/
+*.jks
+*.keystore
+.DS_Stores
